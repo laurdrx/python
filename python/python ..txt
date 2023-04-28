@@ -1,14 +1,11 @@
 python é uma linnguagem script nao precisa declara como em "c"
 pode usar ("") ou ('') 
 
-
 // INT
 num1= int(input("insira o número."))
 num2= int(input("insira outro número"))
 resultado= num1+num2
 print (resultado)
-
-
 
 //IF E ELSE
 
@@ -30,8 +27,19 @@ POTENCIA
 
 Lista: x=['a','b','c']- são uma string
 		print(x[1;2])
+
 Tupla: x=('a','b','c')-ela é uma string constante não se modifica
-Dicionário: 
+
+Dicionário:
+	
+	print(pessoa[volta vida])
+	pessoa[volta vida]
+		x={
+		'cor':'vermelho','numero':''20'
+		}
+
+NÃO REPETE ELEMENTOS E NÃO ORDENA  
+ 
 Conjunto:
 
 
