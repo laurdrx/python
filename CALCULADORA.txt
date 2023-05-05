@@ -1,0 +1,50 @@
+pc=0
+def soma():
+    x= int(input("entre com o x: "))
+    y= int(input("entre com o y: "))
+
+    z=x+y
+
+    print(x,"+",y,"=",z )
+
+def subtracao():
+    
+    x= int(input("entre com o x: "))
+    y= int(input("entre com o y: "))
+
+    z=x-y
+
+    print(x,"+",y,"=",z )
+    
+def multiplicacao():
+    
+    x= int(input("entre com o x: "))
+    y= int(input("entre com o y: "))
+
+    z=x*y
+    print(x,"*",y,"=",z )
+
+    
+def divisao():
+    
+    x= int(input("entre com o x: "))
+    y= int(input("entre com o y: "))
+    z=x/y
+    print(x,"/",y,"=",z )
+
+
+
+def potencia():
+def raiz():
+    x= int(input("entre com o x: "))
+    y= int(input("entre com o y: "))
+    z=x**1/2
+    print(x,"**1/2",y,"=",z )
+
+while opc!=2:
+    print("")
+    
+
+opc = int (input("\nsua escolha:"))
+
+while opc!=
