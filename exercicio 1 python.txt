@@ -1,0 +1,14 @@
+exercicio 1 python
+
+x=0
+y=0
+z=0
+
+x= int(input("entre com o x: "))
+y= int(input("entre com o y: "))
+
+z=x+y
+
+print(x,"+",y,"=",z )
+
+
